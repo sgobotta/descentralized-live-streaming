@@ -9,3 +9,6 @@ client/dist/
 
 # Test Torrent
 *.torrent
+
+# NPM
+package-lock.json
