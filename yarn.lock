@@ -889,6 +889,13 @@ buffer@^4.3.0:
     ieee754 "^1.1.4"
     isarray "^1.0.0"
 
+bufferutil@^1.2.1:
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/bufferutil/-/bufferutil-1.3.0.tgz#69fdf13ad9d91222baee109945faadc431534f86"
+  dependencies:
+    bindings "~1.2.1"
+    nan "~2.4.0"
+
 bufferutil@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/bufferutil/-/bufferutil-3.0.0.tgz#afbb831c47229accf0b1f207d4a9942841b0ab0f"
@@ -2780,6 +2787,10 @@ nan@^2.3.0:
   version "2.6.2"
   resolved "https://registry.yarnpkg.com/nan/-/nan-2.6.2.tgz#e4ff34e6c95fdfb5aecc08de6596f43605a7db45"
 
+nan@~2.4.0:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/nan/-/nan-2.4.0.tgz#fb3c59d45fe4effe215f0b890f8adf6eb32d2232"
+
 nan@~2.5.0:
   version "2.5.1"
   resolved "https://registry.yarnpkg.com/nan/-/nan-2.5.1.tgz#d5b01691253326a97a2bbee9e61c55d8d60351e2"
@@ -3813,7 +3824,7 @@ select-hose@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/select-hose/-/select-hose-2.0.0.tgz#625d8658f865af43ec962bfc376a37359a4994ca"
 
-selenium-webdriver@^3.0.0-beta-3, selenium-webdriver@^3.4.0:
+selenium-webdriver@^3.0.0-beta-3:
   version "3.4.0"
   resolved "https://registry.yarnpkg.com/selenium-webdriver/-/selenium-webdriver-3.4.0.tgz#151f7445294da6a66c49cc300747a2a17e53c52a"
   dependencies:
@@ -4583,6 +4594,13 @@ ut_pex@^1.1.1:
     compact2string "^1.2.0"
     inherits "^2.0.1"
     string2compact "^1.1.1"
+
+utf-8-validate@^1.2.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/utf-8-validate/-/utf-8-validate-1.2.2.tgz#8bb871a4741e085c70487ca7acdbd7d6d36029eb"
+  dependencies:
+    bindings "~1.2.1"
+    nan "~2.4.0"
 
 util-deprecate@~1.0.1:
   version "1.0.2"
